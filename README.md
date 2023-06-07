@@ -16,7 +16,7 @@
 ## Preview
 
 <div align="center">
-    <a href="https://michaelcurrin.github.io/jekyll-blog-demo/">
+    <a href="https://liblung.github.io/hydra2/">
         <img src="/sample.png" alt="Sample screenshot" title="Go to demo site" width="400">
     </a>
 </div>
